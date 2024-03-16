@@ -78,12 +78,11 @@ figcaption {
     margin-top: 20px;
   }
 
-  .container-locations img {
+.container-locations img {
     height: 500px;
   }
 
 .container-locations .row {
-    display: inline;
     position: absolute;
     display: block;
     top: 170px;
