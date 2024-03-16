@@ -85,10 +85,11 @@ figcaption {
 .container-locations .row {
     display: inline;
     position: absolute;
-    display: inline;
+    display: block;
     top: 170px;
-    left: 80px;
-    right: 80px;
+    left: 60px;
+    right: 60px;
+    
   }
 
 .container-locations .card {
